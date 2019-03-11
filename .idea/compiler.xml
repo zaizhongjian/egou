@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="egou_basic_util" />
+        <module name="egou_config_server" />
+        <module name="egou_eureka_server" />
+        <module name="egou_plat_interface" />
+        <module name="egou_plat_service" />
+        <module name="egou_zuul_server" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

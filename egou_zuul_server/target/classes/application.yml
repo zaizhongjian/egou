@@ -1,0 +1,19 @@
+server:
+  port: 8762
+spring:
+  application:
+    name: ZUUL
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+  instance:
+    instance-id: zuul-test #显示的名字而已
+    prefer-ip-address: true
+zuul:
+  routes:
+    wbUser.serviceId: login-service
+    wbUser.path: /login/**
+  ignored-services: "*"
+  prefix: /egou
+

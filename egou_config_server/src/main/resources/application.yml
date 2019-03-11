@@ -1,0 +1,18 @@
+server:
+  port: 8763
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+  instance:
+    prefer-ip-address: true
+spring:
+  application:
+    name: egou-config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/zaizhongjian/egou_config.git  #git文件地址
+          username: 191936793@qq.com
+          password: zm520**1314..
