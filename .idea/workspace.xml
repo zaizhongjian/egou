@@ -1,7 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24ddc499-7efb-4615-893e-7bbca6a523da" name="Default Changelist" comment="" />
+    <list default="true" id="24ddc499-7efb-4615-893e-7bbca6a523da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/ServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/config/MySimpleByteSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/config/MybatisPlusConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/config/ShiroConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/config/Swagger2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/controller/MenuController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/controller/PermissionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/controller/RoleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/controller/Role_permissionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/controller/User_roleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/entity/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/entity/Permission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/entity/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/entity/Role_permission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/entity/User_role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/mapper/MenuMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/mapper/PermissionMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/mapper/RoleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/mapper/Role_permissionMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/mapper/User_roleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/service/IMenuService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/service/IPermissionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/service/IRoleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/service/IRole_permissionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/service/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/service/IUser_roleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/shiro/PasswordHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/shiro/UserRealm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/util/CodeGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/resources/ehcache.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/resources/mapper/MenuMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/resources/mapper/PermissionMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/resources/mapper/RoleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/resources/mapper/Role_permissionMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/resources/mapper/User_roleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egou_zuul_server/src/main/java/com/json/egou/service/UserCilent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/egou_basic_parent/egou_basic_parent.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/egou_basic_parent/egou_basic_util/egou_basic_util.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/egou_basic_parent/egou_basic_util/target/classes/com/jsonXxxx/util/RespCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/egou_basic_parent/egou_basic_util/target/classes/com/jsonXxxx/util/RespCode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/egou_basic_parent/egou_basic_util/target/classes/com/jsonXxxx/util/Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/egou_basic_parent/egou_basic_util/target/classes/com/jsonXxxx/util/Result.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/egou_config_server/egou_config_server.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/egou_eureka_server/egou_eureka_server.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/egou_parent.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/egou_plat_interface.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/egou_plat_parent/egou_plat_parent.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/egou_plat_parent/egou_plat_service/egou_plat_service.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/egou_plat_parent/egou_plat_service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/egou_plat_parent/egou_plat_service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/egou_zuul_server/egou_zuul_server.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/egou_zuul_server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/egou_zuul_server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/egou_zuul_server/src/main/java/com/json/egou/ZuulApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/egou_zuul_server/src/main/java/com/json/egou/ZuulApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/egou_basic_parent/target/" />
@@ -58,17 +121,84 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="35337772">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="6" />
+          <entry key="java" value="58" />
+          <entry key="xml" value="18" />
+          <entry key="yml" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="6" />
+          <entry key="JAVA" value="58" />
+          <entry key="XML" value="18" />
+          <entry key="YAML" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="java" value="531" />
+          <entry key="xml" value="513" />
+          <entry key="yml" value="47" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="531" />
+          <entry key="SQL" value="20" />
+          <entry key="XML" value="493" />
+          <entry key="YAML" value="47" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="egou_parent" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_service/src/main/resources/bootstrap.yml">
+        <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/controller/LoginController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+            <state relative-caret-position="247">
+              <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/config/MySimpleByteSource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/shiro/UserRealm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="469">
+              <caret line="64" column="158" selection-start-line="64" selection-start-column="158" selection-end-line="64" selection-end-column="158" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -82,26 +212,18 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>config</find>
+      <find>SimpleAuthorizationInfo</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/egou_eureka_server/src/main/java/com/jsonXxxx/egou/EurekaAppliaction.java" />
-        <option value="$PROJECT_DIR$/egou_eureka_server/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/egou_basic_parent/egou_basic_util/src/main/java/com/jsonXxxx/egou/util/Result.java" />
-        <option value="$PROJECT_DIR$/egou_basic_parent/egou_basic_util/src/main/java/com/jsonXxxx/egou/A.java" />
-        <option value="$PROJECT_DIR$/egou_plat_parent/pom.xml" />
-        <option value="$PROJECT_DIR$/egou_basic_parent/egou_basic_util/src/main/java/com/jsonXxxx/util/Result.java" />
-        <option value="$PROJECT_DIR$/egou_basic_parent/pom.xml" />
-        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/pom.xml" />
-        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_service/src/main/java/com/jsonXxxx/egou/A.java" />
-        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_service/src/main/java/com/jsonXxxx/egou/ServiceApplication.java" />
-        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_service/src/main/java/com/jsonXxxx/egou/entity/User.java" />
-        <option value="$PROJECT_DIR$/egou_zuul_server/pom.xml" />
-        <option value="$PROJECT_DIR$/egou_zuul_server/src/main/java/com/json/egou/ZuulApplication.java" />
-        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_service/src/main/java/com/jsonXxxx/egou/controller/LoginController.java" />
-        <option value="$PROJECT_DIR$/egou_zuul_server/src/main/java/com/json/egou/config/SwaggerConfig.java" />
-        <option value="$PROJECT_DIR$/egou_zuul_server/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/egou_eureka_server/src/main/java/com/jsonXxxx/egou/config/Swagger2.java" />
         <option value="$PROJECT_DIR$/egou_eureka_server/pom.xml" />
         <option value="$PROJECT_DIR$/egou_zuul_server/src/main/java/com/json/egou/config/DocumentationConfig.java" />
@@ -109,9 +231,50 @@
         <option value="$PROJECT_DIR$/egou_config_server/pom.xml" />
         <option value="$PROJECT_DIR$/egou_config_server/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/egou_config_server/src/main/java/com/jsonXxxx/egou/ConfigServerApplication.java" />
-        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_service/pom.xml" />
         <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_service/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_service/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_service/pom.xml" />
+        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/controller/PermissionController.java" />
+        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/mapper/PermissionMapper.java" />
+        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/resources/mapper/PermissionMapper.xml" />
+        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/resources/mapper/Role_permissionMapper.xml" />
+        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/resources/l/PermissionMapper.xml" />
+        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/resources/l/Role_permissionMapper.xml" />
+        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/mapper/Role_permissionMapper.java" />
+        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/mapper/RoleMapper.java" />
+        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/mapper/User_roleMapper.java" />
+        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/resources/l/RoleMapper.xml" />
+        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/resources/l/User_roleMapper.xml" />
+        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/resources/l/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/shiro/PasswordHelper.java" />
+        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/pom.xml" />
+        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/config/MybatisPlusConfig.java" />
+        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/util/CodeGenerator.java" />
+        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/entity/Menu.java" />
+        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/service/IMenuService.java" />
+        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/service/IPermissionService.java" />
+        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/service/IRole_permissionService.java" />
+        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/service/IRoleService.java" />
+        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/service/IUser_roleService.java" />
+        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/service/IUserService.java" />
+        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/controller/MenuController.java" />
+        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/mapper/MenuMapper.java" />
+        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/resources/mapper/MenuMapper.xml" />
+        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/ServiceApplication.java" />
+        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/config/ShiroConfiguration.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/entity/Role.java" />
+        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/entity/User.java" />
+        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/resources/mapper/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/shiro/UserRealm.java" />
+        <option value="$PROJECT_DIR$/egou_zuul_server/pom.xml" />
+        <option value="$PROJECT_DIR$/egou_zuul_server/src/main/java/com/json/egou/ZuulApplication.java" />
+        <option value="$PROJECT_DIR$/egou_zuul_server/src/main/java/com/json/egou/service/UserCilent.java" />
+        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/util/MySimpleByteSource.java" />
+        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/config/MySimpleByteSource.java" />
+        <option value="$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/controller/LoginController.java" />
       </list>
     </option>
   </component>
@@ -122,34 +285,104 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="53" />
-    <option name="y" value="61" />
+    <option name="x" value="20" />
+    <option name="y" value="20" />
     <option name="width" value="1400" />
     <option name="height" value="820" />
   </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>EncapsulationJava</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>SetupSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring AOPSpring</id>
+          </State>
+          <State>
+            <id>Spring BatchSpring</id>
+          </State>
+          <State>
+            <id>Spring BootSpring</id>
+          </State>
+          <State>
+            <id>Spring CloudSpring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring DataSpring</id>
+          </State>
+          <State>
+            <id>Spring IntegrationSpring</id>
+          </State>
+          <State>
+            <id>Spring MVCSpring</id>
+          </State>
+          <State>
+            <id>Spring OSGiSpring</id>
+          </State>
+          <State>
+            <id>Spring SecuritySpring</id>
+          </State>
+          <State>
+            <id>Spring Web FlowSpring</id>
+          </State>
+          <State>
+            <id>Spring Web ServicesSpring</id>
+          </State>
+          <State>
+            <id>Spring WebSocketSpring</id>
+          </State>
+          <State>
+            <id>XMLSpring CoreSpring</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpringJavaInjectionPointsAutowiringInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="egou_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="egou_parent" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="egou_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="egou_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="egou_plat_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="egou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="egou" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -159,20 +392,25 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552297672966" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553146056451" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../trunk/boot-1" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jsonXxxx.egou.util" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\workspace\egou_parent\egou_plat_parent\egou_plat_service\src\main\resources" />
-      <recent name="D:\workspace\egou_parent\egou_zuul_server\src\main\resources" />
-      <recent name="D:\workspace\egou_parent\egou_basic_parent\egou_basic_util\src\main\java\com\jsonXxxx\util" />
-      <recent name="D:\workspace\egou_parent\egou_basic_parent\egou_basic_util\src\main\java\com\jsonXxxx\egou\util" />
+      <recent name="D:\workspace\egou\egou_plat_parent\egou_plat_interface\src\main\java\com\jsonXxxx\egou\config" />
+      <recent name="D:\workspace\egou\egou_plat_parent\egou_plat_interface\src\main\resources\mapper" />
+      <recent name="D:\workspace\egou\egou_plat_parent\egou_plat_interface\src\main\resources\l" />
+      <recent name="D:\workspace\egou\egou_plat_parent\egou_plat_interface\src\main\java\com\jsonXxxx\egou\mapper" />
+      <recent name="D:\workspace\egou\egou_plat_parent\egou_plat_interface\src\main\java\com\jsonXxxx\egou\controller" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -187,7 +425,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ServiceApplication">
+  <component name="RunManager" selected="Spring Boot.ServiceApplication (1)">
+    <configuration name="CodeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jsonXxxx.egou.util.CodeGenerator" />
+      <module name="egou_plat_interface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jsonXxxx.egou.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="egou_config_server" />
       <extension name="coverage">
@@ -214,6 +465,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ServiceApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="egou_plat_interface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jsonXxxx.egou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jsonXxxx.egou.ServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="egou_plat_service" />
       <extension name="coverage">
@@ -227,36 +491,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="egou_zuul_server" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.json.egou.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.json.egou.ZuulApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Spring Boot.EurekaAppliaction" />
       <item itemvalue="Spring Boot.ServiceApplication" />
-      <item itemvalue="Spring Boot.ZuulApplication" />
       <item itemvalue="Spring Boot.ConfigServerApplication" />
+      <item itemvalue="Spring Boot.ServiceApplication (1)" />
+      <item itemvalue="Application.CodeGenerator" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.ServiceApplication (1)" />
+        <item itemvalue="Application.CodeGenerator" />
+        <item itemvalue="Spring Boot.EurekaAppliaction" />
         <item itemvalue="Spring Boot.ServiceApplication" />
         <item itemvalue="Spring Boot.ConfigServerApplication" />
-        <item itemvalue="Spring Boot.EurekaAppliaction" />
-        <item itemvalue="Spring Boot.ZuulApplication" />
       </list>
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -267,11 +520,13 @@
       <updated>1552037161559</updated>
       <workItem from="1552037163734" duration="3872000" />
       <workItem from="1552267706954" duration="12198000" />
+      <workItem from="1552355953618" duration="1568000" />
+      <workItem from="1553072898959" duration="13762000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16070000" />
+    <option name="totallyTimeSpent" value="31400000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -282,22 +537,23 @@
       <window_info id="Capture Tool" order="3" />
       <window_info id="Web" order="4" side_tool="true" />
       <window_info id="Designer" order="5" />
-      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.49557522" visible="true" weight="0.24355301" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.49557522" visible="true" weight="0.25071633" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.32974428" />
-      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50143266" side_tool="true" weight="0.32974428" />
-      <window_info anchor="bottom" id="Messages" order="2" sideWeight="0.49928367" weight="0.32974428" />
-      <window_info anchor="bottom" id="Java Enterprise" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Spring" order="6" />
-      <window_info anchor="bottom" id="Message" order="7" />
-      <window_info anchor="bottom" id="Find" order="8" />
-      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.49856734" weight="0.39165545" />
-      <window_info anchor="bottom" id="Debug" order="10" weight="0.39973083" />
-      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="bottom" id="CheckStyle" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3301887" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50143266" side_tool="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Messages" order="3" sideWeight="0.49928367" weight="0.32884097" />
+      <window_info anchor="bottom" id="Java Enterprise" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" />
+      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.49856734" weight="0.40161726" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.46630728" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="14" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Maven Projects" order="1" />
       <window_info anchor="right" id="Database" order="2" />
@@ -309,40 +565,6 @@
       <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Image Layers" order="0" />
-      <window_info id="UI Designer" order="1" />
-      <window_info id="Favorites" order="2" sideWeight="0.50344825" side_tool="true" weight="0.24355301" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Web" order="4" side_tool="true" />
-      <window_info id="Designer" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.49655172" visible="true" weight="0.24355301" />
-      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50143266" side_tool="true" weight="0.32974428" />
-      <window_info anchor="bottom" id="Messages" order="2" sideWeight="0.49928367" weight="0.32974428" />
-      <window_info anchor="bottom" id="Java Enterprise" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Spring" order="6" />
-      <window_info anchor="bottom" id="Message" order="7" />
-      <window_info anchor="bottom" id="Find" order="8" />
-      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.49856734" visible="true" weight="0.39165545" />
-      <window_info anchor="bottom" id="Debug" order="10" weight="0.39973083" />
-      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="13" />
-      <window_info anchor="right" id="Capture Analysis" order="0" />
-      <window_info anchor="right" id="Maven Projects" order="1" />
-      <window_info anchor="right" id="Database" order="2" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Bean Validation" order="5" />
-      <window_info anchor="right" id="Palette" order="6" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -363,269 +585,17 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/egou_eureka_server/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/wdm1/tools/src/main/java/net/wdm/tools/resp/Result.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-749">
-          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egou_basic_parent/egou_basic_util/src/main/java/com/jsonXxxx/egou/util/RespCode.java" />
-    <entry file="file://$PROJECT_DIR$/egou_basic_parent/egou_basic_util/src/main/java/com/jsonXxxx/egou/util/Result.java" />
-    <entry file="file://$PROJECT_DIR$/egou_basic_parent/egou_basic_util/src/main/java/com/jsonXxxx/egou/APPPP.java" />
-    <entry file="file://$PROJECT_DIR$/egou_plat_parent/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egou_basic_parent/egou_basic_util/src/main/java/com/jsonXxxx/util/Result.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
-          <folding>
-            <element signature="e#1146#1147#0" expanded="true" />
-            <element signature="e#1236#1237#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_service/src/main/java/com/jsonXxxx/egou/A.java" />
-    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egou_basic_parent/egou_basic_util/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" selection-start-line="4" selection-end-line="11" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egou_basic_parent/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_service/src/main/java/com/jsonXxxx/egou/entity/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="23" />
-          <folding>
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#272#273#0" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#391#392#0" expanded="true" />
-            <element signature="e#437#438#0" expanded="true" />
-            <element signature="e#533#534#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-core/5.0.9.RELEASE/spring-core-5.0.9.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="120" selection-start-line="120" selection-end-line="120" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-beans/5.0.9.RELEASE/spring-beans-5.0.9.RELEASE.jar!/org/springframework/beans/factory/support/SimpleInstantiationStrategy.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="106" selection-start-line="106" selection-end-line="106" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-context/5.0.9.RELEASE/spring-context-5.0.9.RELEASE.jar!/org/springframework/context/annotation/ConfigurationClassEnhancer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="125" selection-start-line="125" selection-end-line="125" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_service/src/main/java/com/jsonXxxx/egou/ServiceApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egou_zuul_server/src/main/java/com/json/egou/ZuulApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#410#411#0" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_service/src/main/java/com/jsonXxxx/egou/controller/LoginController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#560#561#0" expanded="true" />
-            <element signature="e#593#594#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/com/google/guava/guava/20.0/guava-20.0.jar!/com/google/common/base/Supplier.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="13" column="9" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/io/springfox/springfox-swagger-common/2.9.2/springfox-swagger-common-2.9.2.jar!/springfox/documentation/swagger/web/SwaggerResourcesProvider.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="10" column="53" lean-forward="true" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egou_zuul_server/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egou_zuul_server/src/main/java/com/json/egou/config/SwaggerConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="52" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#581#582#0" expanded="true" />
-            <element signature="e#662#663#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egou_zuul_server/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egou_eureka_server/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egou_zuul_server/src/main/java/com/json/egou/config/DocumentationConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
-          <folding>
-            <element signature="e#518#535#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egou_eureka_server/src/main/java/com/jsonXxxx/egou/EurekaAppliaction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#343#344#0" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_service/src/main/java/com/jsonXxxx/egou/config/Swagger2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egou_config_server/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egou_config_server/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egou_config_server/src/main/java/com/jsonXxxx/egou/ConfigServerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#516#517#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_service/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        <state relative-caret-position="103">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="49" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_service/src/main/resources/application111.yml">
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-context/5.0.9.RELEASE/spring-context-5.0.9.RELEASE.jar!/org/springframework/cache/CacheManager.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_service/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        <state relative-caret-position="114">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -636,9 +606,409 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/resources/ehcache.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-158">
+          <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/controller/PermissionController.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/entity/Permission.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/resources/mapper/Role_permissionMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="64" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/mapper/Role_permissionMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/mapper/RoleMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/mapper/User_roleMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="55" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/resources/mapper/RoleMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="64" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/resources/mapper/User_roleMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egou_plat_parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egou_zuul_server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="5" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/config/MybatisPlusConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/mapper/PermissionMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/util/CodeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="43" column="31" lean-forward="true" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/entity/Menu.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/service/IMenuService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/service/IPermissionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/service/IRole_permissionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/service/IRoleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/service/IUser_roleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/service/IUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/mapper/MenuMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/controller/MenuController.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/resources/mapper/MenuMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="64" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/resources/mapper/PermissionMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/ServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/config/Swagger2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2.jar!/org/apache/shiro/authc/SimpleAuthenticationInfo.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../crm/src/main/java/cn/jsonXxxx/jyTest/config/MySimpleByteSource.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="54" column="12" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2.jar!/org/apache/shiro/authc/UsernamePasswordToken.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2.jar!/org/apache/shiro/realm/CachingRealm.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+          <folding>
+            <element signature="e#1493#1494#0" expanded="true" />
+            <element signature="e#1525#1526#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1890#1891#0" expanded="true" />
+            <element signature="e#1922#1923#0" expanded="true" />
+            <element signature="e#1970#1971#0" expanded="true" />
+            <element signature="e#2012#2013#0" expanded="true" />
+            <element signature="e#2498#2499#0" expanded="true" />
+            <element signature="e#2526#2527#0" expanded="true" />
+            <element signature="e#2572#2573#0" expanded="true" />
+            <element signature="e#2606#2607#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/entity/Role.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="29" column="40" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/resources/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="44" column="79" lean-forward="true" selection-start-line="44" selection-start-column="79" selection-end-line="44" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egou_zuul_server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/config/ShiroConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egou_zuul_server/src/main/java/com/json/egou/ZuulApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egou_zuul_server/src/main/java/com/json/egou/service/UserCilent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/shiro/PasswordHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2.jar!/org/apache/shiro/util/SimpleByteSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/io/Serializable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="168" column="17" selection-start-line="168" selection-start-column="17" selection-end-line="168" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/config/MySimpleByteSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/shiro/UserRealm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="64" column="158" selection-start-line="64" selection-start-column="158" selection-end-line="64" selection-end-column="158" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/egou_plat_parent/egou_plat_interface/src/main/java/com/jsonXxxx/egou/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
@@ -662,6 +1032,19 @@
           </splitter-proportions>
         </settings>
       </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>egou_plat_interface</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <splitter-proportions>
@@ -675,6 +1058,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: com.baomidou:mybatis-plus-annotation:3.0.2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
